@@ -1,1 +1,3 @@
-# -Leveraging-Knowledge-Distillation-for-Efficient-Sentiment-Analysis-with-BERT-Models
+# Leveraging-Knowledge-Distillation-for-Efficient-Sentiment-Analysis-with-BERT-Models
+
+The project aims to develop a Twitter sentiment analysis system using knowledge distillation techniques. It involves selecting a pre-trained teacher model like BERT-base-uncased and a smaller student model such as BERT-tiny. Data preprocessing involves cleaning and tokenizing Twitter text data. Custom training arguments are defined for knowledge distillation, leveraging teacher knowledge to train the student model. Evaluation metrics like accuracy are employed to compare the performance and parameters of both models. Python programming skills, natural language processing (NLP) techniques, knowledge distillation methodologies, and model evaluation expertise are essential for the successful implementation of the project.
